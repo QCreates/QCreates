@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">QCreates</title>
+  <desc id="desc">A warm off-white banner with violet architectural guide lines and the words software and interior design.</desc>
+  <rect width="1200" height="260" rx="24" fill="#f7f4f7"/>
+  <path d="M34 196H1166M891 36V226M990 36V226M1090 36V226M887 73H1166M887 154H1166" fill="none" stroke="#ccc0cf" stroke-width="2"/>
+  <path d="M891 73h99v81h100M990 36v37M1090 154v72" fill="none" stroke="#8a4f91" stroke-width="3"/>
+  <circle cx="891" cy="73" r="6" fill="#8a4f91"/><circle cx="990" cy="154" r="6" fill="#8a4f91"/><circle cx="1090" cy="154" r="6" fill="#8a4f91"/>
+  <rect x="36" y="36" width="7" height="20" rx="3.5" fill="#8a4f91"/>
+  <text x="65" y="128" fill="#252229" font-family="Segoe UI, Arial, sans-serif" font-size="70" font-weight="700" letter-spacing="-3">QCreates</text>
+  <text x="68" y="172" fill="#625865" font-family="Segoe UI, Arial, sans-serif" font-size="24" letter-spacing="1.5">SOFTWARE  /  INTERIOR DESIGN</text>
+</svg>
