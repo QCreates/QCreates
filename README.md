@@ -1,16 +1,35 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/qcreates-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/qcreates-header-light.svg">
+  <img src="./assets/qcreates-header-light.svg" alt="QCreates — software and interior design" width="100%">
+</picture>
 
-<!--
-**QCreates/QCreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Qasem Abdeljaber
 
-Here are some ideas to get you started:
+I build practical software around the work I know: product data, retail workflows, and useful interfaces. I also offer interior design consultations through QCreates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Explore:** [Design consultation site](https://q-creates.com/) · [Public repositories](https://github.com/QCreates?tab=repositories)
+
+## Selected work
+
+### [QCreates site](https://github.com/QCreates/qcreates.github.io)
+
+The live site for my interior design consultation work, built with HTML, CSS, and JavaScript. [Visit the site →](https://q-creates.com/)
+
+### [Athan](https://github.com/QCreates/athan)
+
+A Python project that reads prayer times from the EPIC Masjid site, schedules local audio, and serves a small Flask dashboard.
+
+### [RoasterApp](https://github.com/QCreates/RoasterApp)
+
+A Flutter prototype for coffee roaster records. Bean types can be added, edited, and stored locally; the other sections are still placeholders.
+
+### [ImageOrganizer](https://github.com/QCreates/ImageOrganizer)
+
+A focused Python utility that turns extra image columns in a product spreadsheet into image rows for a Shopify-oriented workflow.
+
+## What is in these repositories
+
+Python · Dart / Flutter · HTML / CSS / JavaScript · Django · C#
+
+I favor tools with a clear job and interfaces that explain themselves. The repositories above show the work as it stands, including prototypes still in progress.
